@@ -1,0 +1,1 @@
+Repository for testing and visualization of baseball statistics using the pybaseball library, alongside some intuitive reworkings of the functions provided in order to demonstrate clear trends in my favourite teams.
